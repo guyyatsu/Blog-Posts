@@ -1,8 +1,9 @@
 ---
 layout: post
-tags: software tutorial review
-category: package
 title: SQLite3 DB Implementation
+tags: knowledge howto
+category: programming
+
 ---
 
 # Python3 SQLite3 Tutorial & Lab-93 Implementation

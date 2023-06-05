@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: Python3 Project Packaging
-tags: lab
+tags: knowledge howto
+category: programming
+
 ---
 # Packaging your software for ease of sharing.
 Packaging a Python project using [```pip```](https://pypi.org/project/pip/) is an essential task for developers who seek to share their code with others or distribute it across different environments.  As pip is the standard package manager for Python, we will be using it to manage and
